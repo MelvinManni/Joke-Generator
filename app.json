@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "joke",
+    "name": "joke generator",
     "slug": "joke",
     "version": "1.0.0",
     "orientation": "portrait",
